@@ -2,7 +2,11 @@
 #### A guide for the best fortnite swapper.
 
 ### Jump to a page:
-
+###[FAQ](https://github.com/RaiderxD404/SaturnSwapperGuide/blob/main/Wiki.md#faq "FAQ")
+###[How to use the Swapper](https://github.com/RaiderxD404/SaturnSwapperGuide/blob/main/Wiki.md#how-to-use-the-swapper- "How to use the Swapper")
+###[Common Errors](https://github.com/RaiderxD404/SaturnSwapperGuide/blob/main/Wiki.md#common-errors "Common Errors")
+###[Errors, but serious errors.](http://https://github.com/RaiderxD404/SaturnSwapperGuide/blob/main/Wiki.md#errors-but-serious-errors "Errors, but serious errors.")
+###[Logs](https://github.com/RaiderxD404/SaturnSwapperGuide/blob/main/Wiki.md#logs "Logs")
 
 
 
