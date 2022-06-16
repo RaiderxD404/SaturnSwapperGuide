@@ -115,7 +115,7 @@ If the swapper doesn't open, chances are that you have not downloaded the prereq
 
 ### Saturn Logs
 
-Saturn logs are used to identify errors with swapper and errors with Swapping, there is a lot of information in Saturn logs that you really do not need to know, but, most errors happen at the end of the log or in the minute when the error happened.
+Saturn logs are used to identify errors with swapper and errors with Swapping, most errors happen at the end of the log or in the timestamp of when the error occured.
 
 ##### Your Saturn log is located at %localappdata%/Saturn/Logs/Saturn.log
 ##### [How to send a log](https://solar-stern-galaxy.is-a-skid.me/LZQ58t0g "How to send a log")
