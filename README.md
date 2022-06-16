@@ -52,7 +52,7 @@ No, Saturn Swapper is completely open source. If you wish, you can view the sour
 No, this is client sided, meaning only you can see the item that changed.
 #### Can I use this on GeForce Now? ☁
 No, you can't use this in GeForce Now because you can't download the program on the cloud, however, you should be able to use the swapper if the cloud gives you full access to the PC.
-#### Can I use this on Mobile, PS4, PS5, Xbox One or Xbox Series? 🎮 📱
+#### Can I use this on Console, Mobile or MacOS? 🎮 📱
 This swapper only works with Windows. However, we plan to bring the swapper to Mobile and MacOs in the future.
 
 
@@ -100,16 +100,16 @@ If the swapper doesn't open, chances are that you have not downloaded the prereq
 [![Remove Duped Ucas](https://cdn.upload.systems/uploads/SZrE9qxW.png "Remove Duped Ucas")](https://cdn.upload.systems/uploads/SZrE9qxW.png "Remove Duped Ucas")
 #### If that doesn't works, send your fortnite log in the [Saturn Server Support Channel](https://discord.gg/HpErhNBqB4 "Saturn Server Support Channel")
 
- Guide to how to send logs here
+[How to send a log](https://solar-stern-galaxy.is-a-skid.me/LZQ58t0g "How to send a log")
 
 #### E: Im getting kicked out of the game.
 [![Kick](https://media.discordapp.net/attachments/930441422669242378/967377016548646932/unknown.png?width=1191&height=670 "Kick")](http://https://media.discordapp.net/attachments/930441422669242378/967377016548646932/unknown.png?width=1191&height=670 "Kick")
->  S: You most likely swapped too many things, it is recommended to use 1 skin, 1 backbling, 1 pickaxe and 1 emote, or just don't swap things that you will not use in the game.##### S: You most likely swapped too many things, it is recommended to use 1 skin, 1 backbling, 1 pickaxe and 1 emote, or just don't swap things that you will not use in the game.
+>  S: You most likely swapped too many things, it is recommended to use 1 skin, 1 backbling, 1 pickaxe and 1 emote, or just don't swap things that you will not use in the game.
 
 #### E: I get this error, what should I do?
 [![nobrain](https://media.discordapp.net/attachments/930441422669242378/985669190528679956/unknown.png "nobrain")](https://media.discordapp.net/attachments/930441422669242378/985669190528679956/unknown.png "nobrain")
 
-> S: Do what it says? [Saturn Discord Server](http://discord.gg/saturn "Saturn Discord Server")
+> S: Do what it says. [Saturn Discord Server](http://discord.gg/saturn "Saturn Discord Server")
 
 ## Logs
 
