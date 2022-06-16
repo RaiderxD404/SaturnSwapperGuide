@@ -106,7 +106,7 @@ Saturn logs are used to identify errors with swapper and errors with Swapping, t
 --- End of stack trace from previous location ---
    at Saturn.Backend.Core.Services.SwapperService.<>c__DisplayClass34_0.<<BackupFile>b__0>d.MoveNext()
 ```
-#####S: You don't have enough space in your disk, you need around 20gbs to swap.
+##### S: You don't have enough space in your disk, you need around 20gbs to swap.
 
 
 ### Fortnite Logs
