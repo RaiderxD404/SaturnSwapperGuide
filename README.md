@@ -45,9 +45,9 @@
 
 ## Frequently Asked Questions
 #### Can you get banned?
-* No, you can’t get banned for using Saturn Swapper, Saturn doesn't inject anything into the game and only changed gamefiles.
+* No, you can’t get banned for using Saturn Swapper, Saturn doesn't inject anything into the game and only changes gamefiles.
 ####  Is Saturn Swapper a virus?
-* No, Saturn Swapper is completely open source. If you wish, you can view the source [here](https://github.com/Tamely/SaturnSwapper "here").
+* No, Saturn Swapper is completely open source. If you wish, you can view the source code [here](https://github.com/Tamely/SaturnSwapper "here").
 #### Can other people see my swapped items?
 * No, this is client sided, meaning only you can see the item that changed.
 #### Can I use this on GeForce Now?
