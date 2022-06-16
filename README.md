@@ -80,11 +80,11 @@ If the swapper doesn't open, chances are that you have not downloaded the prereq
 
 #### Q: Linkvertise doesn’t load for me! It shows this picture (or something like this). What do I do?
 [![](https://media.discordapp.net/attachments/930442711255900200/930510745962151946/unknown.png)](https://media.discordapp.net/attachments/930442711255900200/930510745962151946/unknown.png)
-##### A: Use a vpn.
+###### A: Use a vpn.
 
 #### Q:  I can’t get a key! It says “Linkvertise was unable to generate your key”
 [![](https://media.discordapp.net/attachments/930442711255900200/930853415741976626/IMG_7424.png "ur mom")](http://https://media.discordapp.net/attachments/930442711255900200/930853415741976626/IMG_7424.png "ur mom")
-##### A: Don't bypass the link. 
+###### A: Don't bypass the link. 
 
 #####  Q: There was an error with my CUE4Parse decompression! How do I fix it?
 ###### A: Install [Vc Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe)
