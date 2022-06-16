@@ -1,3 +1,39 @@
+<div id="top"></div>
+
+
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Tamely/SaturnSwapper">
+    <img src="https://media.discordapp.net/attachments/879497706287017985/987005319001571338/unknown.png?width=702&height=702" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Saturn Swapper Guide</h3>
+
+  <p align="center">
+    The best, easiest, safest and fasted way to use plugins!
+    <br />
+    <a href="https://discord.gg/zh6JJv9U3E"><strong>Join the Discord »</strong></a>
+    <br />
+    <br />
+    <a href="https://www.youtube.com/c/Fruthy/videos">View Demo</a>
+    ·
+    <a href="https://github.com/Fruthy-Ue/Swapping-Connect-v2/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Fruthy-Ue/Swapping-Connect-v2/issues">Request Feature</a>
+  </p>
+</div>
+
+
+
+
+
+
+
+
 # Saturn Swapper 🪐 Wiki
 #### A guide for the best fortnite swapper.
 
