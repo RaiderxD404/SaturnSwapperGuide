@@ -19,7 +19,7 @@
     <a href="https://discord.gg/saturn"><strong>Join the Discord »</strong></a>
     <br />
     <br />
-    <a href="https://www.youtube.com/channel/UCxUHL3vswZ5HcIUatskS2HQ">View Demo</a>
+    <a href="https://solar-stern-galaxy.is-a-skid.me/aj4R01Bs">View Demo</a>
     ·
     <a href="https://github.com/Tamely/SaturnSwapper/issues">Report Bug</a>
     ·
@@ -43,7 +43,7 @@
 
 
 
-## FAQ:
+## Frequently Asked Questions
 #### Can you get banned? 🔨
 No, you can’t get banned for using this, Fortnite Swapping is not a ban reason.
 ####  Is this a virus? 🦠
