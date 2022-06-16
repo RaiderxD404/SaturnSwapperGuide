@@ -14,16 +14,16 @@
   <h3 align="center">Saturn Swapper Guide</h3>
 
   <p align="center">
-    The best, easiest, safest and fasted way to use plugins!
+    The ultimate guide to using Saturn Swapper
     <br />
-    <a href="https://discord.gg/zh6JJv9U3E"><strong>Join the Discord »</strong></a>
+    <a href="https://discord.gg/saturn"><strong>Join the Discord »</strong></a>
     <br />
     <br />
-    <a href="https://www.youtube.com/c/Fruthy/videos">View Demo</a>
+    <a href="https://www.youtube.com/channel/UCxUHL3vswZ5HcIUatskS2HQ">View Demo</a>
     ·
-    <a href="https://github.com/Fruthy-Ue/Swapping-Connect-v2/issues">Report Bug</a>
+    <a href="https://github.com/Tamely/SaturnSwapper/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Fruthy-Ue/Swapping-Connect-v2/issues">Request Feature</a>
+    <a href="https://github.com/Tamely/SaturnSwapper/issues">Request Feature</a>
   </p>
 </div>
 
@@ -32,10 +32,6 @@
 
 
 
-
-
-# Saturn Swapper 🪐 Wiki
-#### A guide for the best fortnite swapper.
 
 ### Jump to a page:
 ### [FAQ](https://github.com/RaiderxD404/SaturnSwapperGuide/blob/main/Wiki.md#faq "FAQ")
