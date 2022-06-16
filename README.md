@@ -45,21 +45,21 @@
 
 ## Frequently Asked Questions
 #### Can you get banned?
-No, you can’t get banned for using Saturn Swapper, Saturn doesn't inject anything into the game and only changed gamefiles.
+* No, you can’t get banned for using Saturn Swapper, Saturn doesn't inject anything into the game and only changed gamefiles.
 ####  Is Saturn Swapper a virus?
-No, Saturn Swapper is completely open source. If you wish, you can view the source [here](https://github.com/Tamely/SaturnSwapper "here").
+* No, Saturn Swapper is completely open source. If you wish, you can view the source [here](https://github.com/Tamely/SaturnSwapper "here").
 #### Can other people see my swapped items?
-No, this is client sided, meaning only you can see the item that changed.
+* No, this is client sided, meaning only you can see the item that changed.
 #### Can I use this on GeForce Now?
-No, you can't use this in GeForce Now because you can't download the program on the cloud, however, you should be able to use the swapper if the cloud gives you full access to the PC.
+* No, you can't use this in GeForce Now because you can't download the program on the cloud, however, you should be able to use the swapper if the cloud gives you full access to the PC.
 #### Can I use this on Console, Mobile or MacOS?
-This swapper only works with Windows. However, we plan to bring the swapper to Mobile and MacOs in the future.
+* Saturn Swapper only works with Windows. However, we plan to bring the swapper to Mobile and MacOs in the future.
 
 
 ## How to use the swapper
 
 
-First, open Saturn.exe, then, click on the tab you want to swap, then, choose the item you want, the options should come out below the item, then choose the option you have in your locker, and wait for it to back up files.
+Firstly, open Saturn.exe, then, click on the tab you want to swap, then, choose the item you want, the options should come out below the item, then choose the option you have in your locker, and wait for it to back up files.
 
 [Video Tutorial](https://solar-stern-galaxy.is-a-skid.me/aj4R01Bs "Video Tutorial")
 
