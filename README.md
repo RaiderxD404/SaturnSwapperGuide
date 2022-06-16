@@ -1,5 +1,37 @@
-# Saturn Swapper 🪐 Wiki
-#### A guide for the best fortnite swapper.
+<div id="top"></div>
+
+
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Tamely/SaturnSwapper">
+    <img src="https://media.discordapp.net/attachments/879497706287017985/987005319001571338/unknown.png?width=702&height=702" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Saturn Swapper Guide</h3>
+
+  <p align="center">
+    The ultimate guide to using Saturn Swapper
+    <br />
+    <a href="https://discord.gg/saturn"><strong>Join the Discord »</strong></a>
+    <br />
+    <br />
+    <a href="https://solar-stern-galaxy.is-a-skid.me/aj4R01Bs">View Demo</a>
+    ·
+    <a href="https://github.com/Tamely/SaturnSwapper/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Tamely/SaturnSwapper/issues">Request Feature</a>
+  </p>
+</div>
+
+
+
+
+
+
 
 ### Jump to a page:
 ### [FAQ](https://github.com/RaiderxD404/SaturnSwapperGuide/blob/main/Wiki.md#faq "FAQ")
@@ -11,23 +43,23 @@
 
 
 
-## FAQ:
-#### Can you get banned? 🔨
-No, you can’t get banned for using this, Fortnite Swapping is not a ban reason.
-####  Is this a virus? 🦠
-No, Saturn Swapper is completely open source, you can build the source and use the swapper.
-#### Can other people see my skin? 👀
-No, this is client-side, only you can see the skin.
-#### Can I use this on GeForce Now? ☁
-No, you can't use this in GeForce Now because you can't download the program on the cloud, however, you should be able to use the swapper if the cloud gives you full access to the PC.
-#### Can I use this on Mobile, PS4, PS5, Xbox One or Xbox Series? 🎮 📱
-This swapper only works with Windows 💻. However, we plan to bring the swapper to Mobile 📱.
+## Frequently Asked Questions
+#### Can you get banned?
+* No, you can’t get banned for using Saturn Swapper, Saturn doesn't inject anything into the game and only changed gamefiles.
+####  Is Saturn Swapper a virus?
+* No, Saturn Swapper is completely open source. If you wish, you can view the source [here](https://github.com/Tamely/SaturnSwapper "here").
+#### Can other people see my swapped items?
+* No, this is client sided, meaning only you can see the item that changed.
+#### Can I use this on GeForce Now?
+* No, you can't use this in GeForce Now because you can't download the program on the cloud, however, you should be able to use the swapper if the cloud gives you full access to the PC.
+#### Can I use this on Console, Mobile or MacOS?
+* Saturn Swapper only works with Windows. However, we plan to bring the swapper to Mobile and MacOs in the future.
 
 
-## How to use the swapper ❓
+## How to use the swapper
 
 
-First, open Saturn.exe, then, click on the tab you want to swap, then, choose the item you want, the options should come out below the item, then choose the option you have in your locker, and wait for it to back up files.
+Firstly, open Saturn.exe, then, click on the tab you want to swap, then, choose the item you want, the options should come out below the item, then choose the option you have in your locker, and wait for it to back up files.
 
 [Video Tutorial](https://solar-stern-galaxy.is-a-skid.me/aj4R01Bs "Video Tutorial")
 
@@ -35,10 +67,10 @@ First, open Saturn.exe, then, click on the tab you want to swap, then, choose th
 
 ## Swapper not opening 
 
-If the swapper does not open, chances are that you have not downloaded the prerequisites that are:
-[.NET 6](http://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.1-windows-x64-installer ".NET 6.0")
-[.NET 6 SDK](http://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.201-windows-x64-installer ".NET 6.0 SDK")
-[WebView 2 (Comes with Windows 11)](https://go.microsoft.com/fwlink/p/?LinkId=2124703 "WebView (Comes with Windows 11)")
+If the swapper doesn't open, chances are that you have not downloaded the prerequisites that are:
+* [.NET 6](http://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.1-windows-x64-installer ".NET 6.0")
+* [.NET 6 SDK](http://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.201-windows-x64-installer ".NET 6.0 SDK")
+* [WebView 2](https://go.microsoft.com/fwlink/p/?LinkId=2124703 "WebView (Comes with Windows 11)") (Comes with Windows 11)
 ##### Disable your antivirus.
 
 [How to disable your antivirus in Windows 10.](https://i.upload.systems/fzX0bgVj  "How to disable your antivirus in Windows 10.")
@@ -60,30 +92,30 @@ If the swapper does not open, chances are that you have not downloaded the prere
 ##### Q: My lobby background went blue after using the lobby background swapper!
 ###### A: The background image you selected was too big. Just open it, take a screenshot of it, and use the screenshot.
 
-## Errors, but serious errors.
+## Advanced Errors
 
 #### E: My Game is crashing, what should I do?
 [![Crashing](https://media.discordapp.net/attachments/930441422669242378/986757994349985802/unknown.png "Crashing")](http://https://media.discordapp.net/attachments/930441422669242378/986757994349985802/unknown.png "Crashing")
->  S: First, try remove duped ucas
+>  S: First, try to remove duped ucas.
 [![Remove Duped Ucas](https://cdn.upload.systems/uploads/SZrE9qxW.png "Remove Duped Ucas")](https://cdn.upload.systems/uploads/SZrE9qxW.png "Remove Duped Ucas")
 #### If that doesn't works, send your fortnite log in the [Saturn Server Support Channel](https://discord.gg/HpErhNBqB4 "Saturn Server Support Channel")
 
- Guide to how to send logs here
+[How to send a log](https://solar-stern-galaxy.is-a-skid.me/LZQ58t0g "How to send a log")
 
-#### E: Im getting kicked out of the game
+#### E: Im getting kicked out of the game.
 [![Kick](https://media.discordapp.net/attachments/930441422669242378/967377016548646932/unknown.png?width=1191&height=670 "Kick")](http://https://media.discordapp.net/attachments/930441422669242378/967377016548646932/unknown.png?width=1191&height=670 "Kick")
->  S: Probably you swapped many things, it is recommended to use 1 skin, 1 backbling, 1 pickaxe and 1 emote, or just don't swap things that you will not use in the game.##### S: Probably you swapped many things, it is recommended to use 1 skin, 1 backbling, 1 pickaxe and 1 emote, or just don't swap things that you will not use in the game.
+>  S: You most likely swapped too many things, it is recommended to use 1 skin, 1 backbling, 1 pickaxe and 1 emote, or just don't swap things that you will not use in the game.
 
 #### E: I get this error, what should I do?
 [![nobrain](https://media.discordapp.net/attachments/930441422669242378/985669190528679956/unknown.png "nobrain")](https://media.discordapp.net/attachments/930441422669242378/985669190528679956/unknown.png "nobrain")
 
-> S: Do what it says? [Saturn Discord Server](http://discord.gg/saturn "Saturn Discord Server")
+> S: Do what it says. [Saturn Discord Server](http://discord.gg/saturn "Saturn Discord Server")
 
 ## Logs
 
 ### Saturn Logs
 
-Saturn logs are used to identify errors with swapper and errors with Swapping, there is a lot of information in Saturn logs that you really do not need to know, but, most errors happen at the end of the log or in the minute when the error happened.
+Saturn logs are used to identify errors with swapper and errors with Swapping, most errors happen at the end of the log or in the timestamp of when the error occured.
 
 ##### Your Saturn log is located at %localappdata%/Saturn/Logs/Saturn.log
 ##### [How to send a log](https://solar-stern-galaxy.is-a-skid.me/LZQ58t0g "How to send a log")
