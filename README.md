@@ -34,11 +34,11 @@
 
 
 ### Jump to a page:
-### [FAQ](https://github.com/RaiderxD404/SaturnSwapperGuide/blob/main/Wiki.md#faq "FAQ")
-### [How to use the Swapper](https://github.com/RaiderxD404/SaturnSwapperGuide/blob/main/Wiki.md#how-to-use-the-swapper- "How to use the Swapper")
-### [Common Errors](https://github.com/RaiderxD404/SaturnSwapperGuide/blob/main/Wiki.md#common-errors "Common Errors")
-### [Errors, but serious errors.](http://https://github.com/RaiderxD404/SaturnSwapperGuide/blob/main/Wiki.md#errors-but-serious-errors "Errors, but serious errors.")
-### [Logs](https://github.com/RaiderxD404/SaturnSwapperGuide/blob/main/Wiki.md#logs "Logs")
+### [FAQ](https://github.com/RaiderxD404/SaturnSwapperGuide#frequently-asked-questions)
+### [How to use the Swapper](https://github.com/RaiderxD404/SaturnSwapperGuide#how-to-use-the-swapper-1)
+### [Common Errors](https://github.com/RaiderxD404/SaturnSwapperGuide#common-errors-1)
+### [Advanced Errors](https://github.com/RaiderxD404/SaturnSwapperGuide#advanced-errors)
+### [Logs](https://github.com/RaiderxD404/SaturnSwapperGuide#logs-1)
 
 
 
@@ -61,8 +61,13 @@
 
 Firstly, open Saturn.exe, then, click on the tab you want to swap, then, choose the item you want, the options should come out below the item, then choose the option you have in your locker, and wait for it to back up files.
 
-[Video Tutorial](https://solar-stern-galaxy.is-a-skid.me/aj4R01Bs "Video Tutorial")
-
+[Video Tutorial for Normal Swapping](https://solar-stern-galaxy.is-a-skid.me/aj4R01Bs "Video Tutorial")
+### Presets
+Firstly, click Misc, then, click "Presets", then, click "Create", give it a name and click "Save"
+[![yk](https://cdn.upload.systems/uploads/015Hx6Ux.png "yk")](https://cdn.upload.systems/uploads/015Hx6Ux.png "yk")
+[![yk1](https://cdn.upload.systems/uploads/uofQzuj9.png "yk1")](https://cdn.upload.systems/uploads/uofQzuj9.png "yk1")
+[![yk2](https://cdn.upload.systems/uploads/vk9gKAYh.png "yk2")](https://cdn.upload.systems/uploads/vk9gKAYh.png "yk2")
+> Presets are saved at C:\Users\AppData\Local\Saturn\Presets
 
 
 ## Swapper not opening 
@@ -95,7 +100,7 @@ If the swapper doesn't open, chances are that you have not downloaded the prereq
 ## Advanced Errors
 
 #### E: My Game is crashing, what should I do?
-[![Crashing](https://media.discordapp.net/attachments/930441422669242378/986757994349985802/unknown.png "Crashing")](http://https://media.discordapp.net/attachments/930441422669242378/986757994349985802/unknown.png "Crashing")
+[![Crashinggg](https://i.redd.it/767t0c4pszr71.jpg "Crashinggg")](https://i.redd.it/767t0c4pszr71.jpg "Crashinggg")
 >  S: First, try to remove duped ucas.
 [![Remove Duped Ucas](https://cdn.upload.systems/uploads/SZrE9qxW.png "Remove Duped Ucas")](https://cdn.upload.systems/uploads/SZrE9qxW.png "Remove Duped Ucas")
 #### If that doesn't works, send your fortnite log in the [Saturn Server Support Channel](https://discord.gg/HpErhNBqB4 "Saturn Server Support Channel")
