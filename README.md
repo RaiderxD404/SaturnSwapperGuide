@@ -37,7 +37,7 @@
 ### [FAQ](https://github.com/RaiderxD404/SaturnSwapperGuide#frequently-asked-questions)
 ### [How to use the Swapper](https://github.com/RaiderxD404/SaturnSwapperGuide#how-to-use-the-swapper-1)
 ### [Common Errors](https://github.com/RaiderxD404/SaturnSwapperGuide#common-errors-1)
-### [Advanced Errors](https://github.com/RaiderxD404/SaturnSwapperGuide#advanced-errors)
+### [Advanced Errors](https://github.com/RaiderxD404/SaturnSwapperGuide#advanced-errors-1)
 ### [Logs](https://github.com/RaiderxD404/SaturnSwapperGuide#logs-1)
 
 
